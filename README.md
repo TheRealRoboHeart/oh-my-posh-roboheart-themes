@@ -1,2 +1,2 @@
-# oh-my-posh-roboheart-themes
-Oh My Posh - RoboHeart Themes
+# Oh My Posh - RoboHeart Themes
+![Example](static/images/example-screenshot.png)
